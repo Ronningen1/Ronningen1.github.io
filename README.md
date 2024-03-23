@@ -1,2 +1,2 @@
 # Ronningen1.github.io
-A statical website
+A python document that capture  faces  apperaed in your computer camera.
